@@ -1,0 +1,12 @@
+indexpage:
+  title: replace with repository name
+  lead: single paragraph, shown on the page
+  summary: summary, used for search results
+  keywords: Unquoted comma-delimited list of keywords
+  tiles:
+    # one or more tile definitions for the page
+  - title: # short string (tile title)
+    links:
+      # one or more links on the tile
+      - title: # short string (link title)
+        url: # single file name or external URL
