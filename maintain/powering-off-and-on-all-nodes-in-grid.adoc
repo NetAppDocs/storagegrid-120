@@ -171,5 +171,5 @@ You can power on these nodes in any order.
 
 * https://docs.netapp.com/us-en/storagegrid-appliances/sg5700/index.html[SG5700 storage appliances^]
 
-// 2026 JUL 14. SGRIDDOC-254
+// 2026 JUL 14, SGRIDDOC-254
 // 2025 APR 30, SGWS-34284
